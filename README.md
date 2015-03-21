@@ -1,2 +1,5 @@
-# beta-thesis
-Beta prototype
+WicaWeb
+=======
+
+CMS Open Source PHP Zend Framework with Twitter Bootstrap
+
